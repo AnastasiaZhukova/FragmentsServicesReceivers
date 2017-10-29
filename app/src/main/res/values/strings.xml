@@ -8,4 +8,8 @@
     <string name="email">EMAIL</string>
     <string name="password">PASSWORD</string>
 
+
+    <string name="download">Download</string>
+    <string name="show_toast">Show toast</string>
+
 </resources>

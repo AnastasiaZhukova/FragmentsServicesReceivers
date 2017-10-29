@@ -50,7 +50,8 @@ public class LaunchActivity extends AppCompatActivity {
     }
 
     private void startMyApplicationActivity() {
-        //TODO implement MyApplicationActivity
+        startActivity(new Intent(this, MyApplicationActivity.class));
+        finish();
     }
 
     @Override
